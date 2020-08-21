@@ -1,0 +1,3 @@
+class wallet
+
+end

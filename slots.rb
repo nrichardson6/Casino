@@ -1,0 +1,3 @@
+class slots
+
+end
