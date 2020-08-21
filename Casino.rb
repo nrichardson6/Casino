@@ -8,7 +8,7 @@ require_relative "slots"
 require_relative "wallet"
 require_relative "deck"
 require_relative "dice"
-require_relative "cards"
+require_relative "card"
 
 
 class casino
