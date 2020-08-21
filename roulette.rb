@@ -1,3 +1,3 @@
-class roulette
+class Roulette
 
 end

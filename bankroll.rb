@@ -1,3 +1,3 @@
-class bankroll
+class Bankroll
 
 end

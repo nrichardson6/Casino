@@ -11,6 +11,6 @@ require_relative "dice"
 require_relative "card"
 
 
-class casino
+class Casino
 
 end

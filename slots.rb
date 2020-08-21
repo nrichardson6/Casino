@@ -1,3 +1,3 @@
-class slots
+class Slots
 
 end
