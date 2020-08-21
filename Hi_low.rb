@@ -1,3 +1,3 @@
-class high_low
+class High_low
 
 end

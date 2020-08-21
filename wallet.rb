@@ -1,3 +1,3 @@
-class wallet
+class Wallet
 
 end
