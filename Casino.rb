@@ -21,20 +21,18 @@ lobby
 
 # Start game player has a name and a wallet
 
+#lobby 2-- play a game-- second menu with games
 
-# Player can go to different games via menu
+#dependency injection- initializer in each game
 
-
-
-#games: -- access these games (find games) through the lobby
 # Slots
 # High / Low
 # Use classes to start the casino, bankroll, and each individual game
 
-
+#wallet COULD BE integer or float but could function as class with its own methods
 
 # Player places bet and wins / loses (hint: rand)
-# outcome will be random-- 
+# outcome will be random-- 3
 # based on win or lose, money is added or subtracted
 
 # The player should have a Wallet and the Wallet should be its own class with remove and add methods (OOP)
@@ -46,3 +44,9 @@ lobby
 # Ability to move to and from games
 #exit to lobby
 #start initiate for game (tells you you are actually entering game) otherwise you can go back to lobby
+
+
+#Dan-- roulette
+#Nick -- slots
+#Layne -- High/Low
+#Kyle -- own game-- 
