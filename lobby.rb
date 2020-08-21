@@ -18,6 +18,4 @@ choice = gets.to_i
   else
     puts "invalid input"
   end
-
-
 end
