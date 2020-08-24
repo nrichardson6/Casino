@@ -39,6 +39,7 @@ puts "5)exit to lobby"
 choice = gets.to_i
   case choice
   when 1
+    
     puts "game 1"
   when 2 
     puts "game 2"
